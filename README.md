@@ -1,5 +1,8 @@
-# challenge-amigo-secreto
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b0/b3/1e/b0b31e11df3a498ed52a27651c423a4b.jpg" alt="Logo de challenge amigo secreto" width="300" />
+</p>
 
+# challenge-amigo-secreto
 Este proyecto permite realizar un sorteo de "Amigo Secreto" a través de una interfaz web. Los usuarios pueden agregar nombres a una lista y, al presionar un botón, se sortea un amigo secreto de manera aleatoria.
 
 ## Funcionalidad
